@@ -63,6 +63,12 @@ hist(x)
 
 ```
 
+
+here is a math equation 
+
+$$ x^2 + y^2 = \frac{1}{2\sigma^2} r^2 $$
+
+
 ## Boxes
 You can add notification, warning and error boxes like this:
 
