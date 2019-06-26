@@ -2,8 +2,6 @@
 layout: post
 title: Test markdown
 subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
@@ -54,6 +52,16 @@ var foo = function(x) {
 }
 foo(3)
 {% endhighlight %}
+
+
+here is some R code
+
+```R
+library(ggplot2)
+x <- c(1,2,3,4,5)
+hist(x)
+
+```
 
 ## Boxes
 You can add notification, warning and error boxes like this:
